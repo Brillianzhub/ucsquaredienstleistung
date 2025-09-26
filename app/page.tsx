@@ -85,6 +85,16 @@ export default function CleaningService() {
             <li><a href="#services" onClick={() => scrollToSection('services')}>{t('services')}</a></li>
             <li><a href="#contact" onClick={() => scrollToSection('contact')}>{t('contact')}</a></li>
           </ul>
+          <ul className={`mobile-nav-links ${isMenuOpen ? 'open' : ''}`}>
+            <li><a href="#home" onClick={() => scrollToSection('home')}>{t('home')}</a></li>
+            <li><a href="#about" onClick={() => scrollToSection('about')}>{t('about')}</a></li>
+            <li><a href="#services" onClick={() => scrollToSection('services')}>{t('services')}</a></li>
+            <li><a href="#contact" onClick={() => scrollToSection('contact')}>{t('contact')}</a></li>
+            <button className="language-toggle" onClick={toggleLanguage}>
+              <span className="flag">{language === 'de' ? '🇩🇪' : '🇺🇸'}</span>
+              <span>{language === 'de' ? 'DE' : 'EN'}</span>
+            </button>
+          </ul>
           <button className="language-toggle" onClick={toggleLanguage}>
             <span className="flag">{language === 'de' ? '🇩🇪' : '🇺🇸'}</span>
             <span>{language === 'de' ? 'DE' : 'EN'}</span>
