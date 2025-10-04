@@ -5,12 +5,12 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'CleanPro Services - Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können',
-  description: 'Professionelle Reinigungsdienstleistungen für Wohn-, Gewerbe- und Industrieimmobilien. Umweltfreundliche Lösungen, erfahrenes Team, wettbewerbsfähige Preise. Wir bedienen Berlin und Umgebung.',
+  title: 'UCSquare Clean Dienstleistung - Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können',
+  description: 'Professionelle Reinigungsdienstleistungen für Wohn-, Gewerbe- und Industrieimmobilien. Umweltfreundliche Lösungen, erfahrenes Team, wettbewerbsfähige Preise. Wir bedienen Deutschland.',
   keywords: 'Reinigungsdienstleistungen, professionelle Reinigung, Haushaltsreinigung, Büroreinigung, umweltfreundliche Reinigung, Berlin Reinigungsservice',
-  authors: [{ name: 'CleanPro Services' }],
+  authors: [{ name: 'UCSquare Clean Dienstleistung' }],
   openGraph: {
-    title: 'CleanPro Services - Professionelle Reinigung, der Sie vertrauen können',
+    title: 'UCSquare Clean Dienstleistung - Professionelle Reinigung, der Sie vertrauen können',
     description: 'Professionelle Reinigungsdienstleistungen für Privat- und Geschäftskunden. Umweltfreundlich, zuverlässig und erschwinglich.',
     type: 'website',
     locale: 'en_DE',
