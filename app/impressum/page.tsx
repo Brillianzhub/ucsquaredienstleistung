@@ -36,19 +36,22 @@ export default function ImpressumPage() {
           <div className="legal-content">
             <section>
               <h2>{language === 'de' ? 'Angaben gemäß § 5 TMG' : 'Information according to § 5 TMG'}</h2>
-              <p><strong>{language === 'de' ? 'Firmenname:' : 'Company Name:'}</strong> Ucsquare Clean Dienstleistung</p>
+              <p><strong>{language === 'de' ? 'Firmenname:' : 'Company Name:'}</strong> UCSquare Clean Dienstleistung</p>
               <p><strong>{language === 'de' ? 'Geschäftsführer:' : 'Managing Director:'}</strong> [Name des Geschäftsführers]</p>
             </section>
 
             <section>
               <h2>{language === 'de' ? 'Kontakt' : 'Contact'}</h2>
               <p><strong>{language === 'de' ? 'Adresse:' : 'Address:'}</strong><br />
-                [Straße und Hausnummer]<br />
-                [PLZ Stadt]<br />
+                Bordighera Allee 13<br />
+                74172 Neckarsulm<br />
                 Deutschland
               </p>
-              <p><strong>{language === 'de' ? 'Telefon:' : 'Phone:'}</strong> [Telefonnummer]</p>
-              <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> [E-Mail-Adresse]</p>
+              <p><strong>{language === 'de' ? 'Telefon:' : 'Phone:'}</strong><br />
+                015212560674<br />
+                017683057106
+              </p>
+              <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> contact@ucsdienstleistung.de</p>
             </section>
 
             <section>
