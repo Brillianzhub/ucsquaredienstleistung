@@ -701,6 +701,11 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 32px;
   }
+
+  .mobile-nav-links a:hover {
+    background: #f9fafb;
+    color: #20B2AA;
+  }
 }
 
 @media (max-width: 480px) {
