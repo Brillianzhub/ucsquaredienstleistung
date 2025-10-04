@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'UCSquare Clean Dienstleistung - Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können',
   description: 'Professionelle Reinigungsdienstleistungen für Wohn-, Gewerbe- und Industrieimmobilien. Umweltfreundliche Lösungen, erfahrenes Team, wettbewerbsfähige Preise. Wir bedienen Deutschland.',
-  keywords: 'Reinigungsdienstleistungen, professionelle Reinigung, Haushaltsreinigung, Büroreinigung, umweltfreundliche Reinigung, Berlin Reinigungsservice',
+  keywords: 'Reinigungsdienstleistungen, professionelle Reinigung, Haushaltsreinigung, Büroreinigung, umweltfreundliche Reinigung, Neckarsulm Reinigungsservice',
   authors: [{ name: 'UCSquare Clean Dienstleistung' }],
   openGraph: {
     title: 'UCSquare Clean Dienstleistung - Professionelle Reinigung, der Sie vertrauen können',

@@ -355,17 +355,20 @@ export default function CleaningService() {
               <h3>{t('contactInfo')}</h3>
               <div className="contact-item">
                 <FaPhone className="contact-icon" />
-                <span className="contact-text">+49 (0) 123 456 7890</span>
+                <span className="contact-text">
+                  015212560674<br />
+                  017683057106
+                </span>
               </div>
               <div className="contact-item">
                 <FaEnvelope className="contact-icon" />
-                <span className="contact-text">info@ucsquare-clean.de</span>
+                <span className="contact-text">contact@ucsdienstleistung.de</span>
               </div>
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
                 <span className="contact-text">
-                  Musterstraße 123<br />
-                  12345 Berlin, Germany
+                  Bordighera Allee 13<br />
+                  74172 Neckarsulm, Germany
                 </span>
               </div>
               <div className="contact-item">
@@ -403,7 +406,8 @@ export default function CleaningService() {
               {t('footerDesc')}
             </p>
             <p><strong>{t('phone')}:</strong> +49 (0) 123 456 7890</p>
-            <p><strong>{t('email')}:</strong> info@ucsquare-clean.de</p>
+            <p><strong>{t('phone')}:</strong> 015212560674 / 017683057106</p>
+            <p><strong>{t('email')}:</strong> contact@ucsdienstleistung.de</p>
           </div>
           
           <div className="footer-section">
