@@ -359,7 +359,7 @@ export default function CleaningService() {
               </div>
               <div className="contact-item">
                 <FaEnvelope className="contact-icon" />
-                <span className="contact-text">info@cleanpro-services.de</span>
+                <span className="contact-text">info@ucsquare-clean.de</span>
               </div>
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
@@ -386,7 +386,7 @@ export default function CleaningService() {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="CleanPro Services Location"
+                  title="UCSquare Clean Dienstleistung Location"
                 ></iframe>
               </div>
             </div>
@@ -403,7 +403,7 @@ export default function CleaningService() {
               {t('footerDesc')}
             </p>
             <p><strong>{t('phone')}:</strong> +49 (0) 123 456 7890</p>
-            <p><strong>{t('email')}:</strong> info@cleanpro-services.de</p>
+            <p><strong>{t('email')}:</strong> info@ucsquare-clean.de</p>
           </div>
           
           <div className="footer-section">
