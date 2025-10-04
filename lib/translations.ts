@@ -7,7 +7,7 @@ export const translations = {
     contact: 'Kontakt',
     
     // Hero Section
-    companyName: 'CleanPro Services',
+    companyName: 'UCSquare Clean Dienstleistung',
     tagline: 'Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können',
     ctaButton: 'Kostenloses Angebot erhalten',
     
@@ -72,7 +72,7 @@ export const translations = {
     businessHours: 'Mo - Fr: 7:00 - 18:00 Uhr\nSa: 8:00 - 16:00 Uhr\nSo: Geschlossen',
     
     // Footer
-    footerDesc: 'Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können. Wir bedienen Berlin und Umgebung mit Exzellenz seit 2014.',
+    footerDesc: 'Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können. Wir bedienen Deutschland mit Exzellenz seit 2014.',
     phone: 'Telefon',
     email: 'E-Mail',
     servicesFooter: 'Leistungen',
@@ -87,6 +87,7 @@ export const translations = {
     termsOfService: 'Nutzungsbedingungen',
     insuranceInfo: 'Versicherungsinfo',
     footerCopyright: '© 2024 CleanPro Services. Alle Rechte vorbehalten. | Lizenziert & Versichert',
+    footerCopyright: '© 2024 UCSquare Clean Dienstleistung. Alle Rechte vorbehalten. | Lizenziert & Versichert',
     
     // Form messages
     thankYouMessage: 'Vielen Dank für Ihre Nachricht! Wir werden uns bald bei Ihnen melden.',
@@ -99,7 +100,7 @@ export const translations = {
     contact: 'Contact',
     
     // Hero Section
-    companyName: 'CleanPro Services',
+    companyName: 'UCSquare Clean Dienstleistung',
     tagline: 'Professional Cleaning Services You Can Trust',
     ctaButton: 'Get a Free Quote',
     
@@ -164,7 +165,7 @@ export const translations = {
     businessHours: 'Mon - Fri: 7:00 AM - 6:00 PM\nSat: 8:00 AM - 4:00 PM\nSun: Closed',
     
     // Footer
-    footerDesc: 'Professional cleaning services you can trust. Serving Berlin and surrounding areas with excellence since 2014.',
+    footerDesc: 'Professional cleaning services you can trust. Serving Germany with excellence since 2014.',
     phone: 'Phone',
     email: 'Email',
     servicesFooter: 'Services',
@@ -178,7 +179,7 @@ export const translations = {
     impressum: 'Impressum',
     termsOfService: 'Terms of Service',
     insuranceInfo: 'Insurance Information',
-    footerCopyright: '© 2024 CleanPro Services. All rights reserved. | Licensed & Insured',
+    footerCopyright: '© 2024 UCSquare Clean Dienstleistung. All rights reserved. | Licensed & Insured',
     
     // Form messages
     thankYouMessage: 'Thank you for your message! We will get back to you soon.',
