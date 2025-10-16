@@ -51,7 +51,7 @@ export default function ImpressumPage() {
                 015212560674<br />
                 017683057106
               </p>
-              <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> contact@ucsdienstleistung.de</p>
+              <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> contact@ucsquaredienstleistung.de</p>
             </section>
 
             <section>
