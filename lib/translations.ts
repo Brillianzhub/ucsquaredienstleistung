@@ -75,7 +75,7 @@ trustDesc: 'Alle privaten und wohnlichen Kunden können sich auf unsere zertifiz
     businessHours: 'Mo - Fr: 7:00 - 18:00 Uhr\nSa: 8:00 - 16:00 Uhr\nSo: Geschlossen',
     
     // Footer
-    footerDesc: 'Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können. Wir bedienen Deutschland mit Exzellenz.',
+    footerDesc: 'Professionelle Reinigungsdienstleistungen, denen Sie vertrauen können. Wir bedienen Sie mit Exzellenz.',
     phone: 'Telefon',
     email: 'E-Mail',
     servicesFooter: 'Leistungen',
@@ -169,7 +169,7 @@ trustDesc: 'Alle privaten und wohnlichen Kunden können sich auf unsere zertifiz
     businessHours: 'Mon - Fri: 7:00 AM - 6:00 PM\nSat: 8:00 AM - 4:00 PM\nSun: Closed',
     
     // Footer
-    footerDesc: 'Professional cleaning services you can trust. Serving Germany with excellence.',
+    footerDesc: 'Professional cleaning services you can trust. Serving you with excellence.',
     phone: 'Phone',
     email: 'Email',
     servicesFooter: 'Services',
