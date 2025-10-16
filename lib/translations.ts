@@ -45,7 +45,8 @@ export const translations = {
     ecoFriendly: 'Umweltfreundlich',
     ecoFriendlyDesc: 'Verpflichtet zur Verwendung umweltverträglicher Reinigungsprodukte, die Ihre Gesundheit und den Planeten schützen.',
     trust: 'Vertrauenswürdig',
-    trustDesc: 'Unsere zertifizierten Reinigungskräfte verfügen über ein aktuelles polizeiliches Führungszeugnis und sind vollständig versichert. Auf sie können Sie sich jederzeit verlassen.',
+trustDesc: 'Alle privaten und wohnlichen Kunden können sich auf unsere zertifizierten Reinigungskräfte mit überprüfter polizeilicher Führungszeugnis-Prüfung verlassen. Ihr Komfort, Ihre Sicherheit und Ihr gutes Gefühl stehen bei uns an erster Stelle.',
+
     
     // Testimonials Section
     testimonialsTitle: 'Was unsere Kunden sagen',
