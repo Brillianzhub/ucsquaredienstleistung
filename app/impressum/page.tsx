@@ -54,12 +54,10 @@ export default function ImpressumPage() {
               <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> contact@ucsquaredienstleistung.de</p>
             </section>
 
-           
-
             <section>
               <h2>{language === 'de' ? 'Handelsregister' : 'Commercial Register'}</h2>
-              <p><strong>{language === 'de' ? 'Registergericht:' : 'Register Court:'}</strong> Stadt Neckarsulm</p>
-              <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> [HRB-Nummer falls vorhanden]</p>
+              <p><strong>{language === 'de' ? 'Registersamt:' : 'Register Office:'}</strong> Stadt Neckarsulm</p>
+              <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> GewA 1: 202500000100</p>
             </section>
 
             <section>
