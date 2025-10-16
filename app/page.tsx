@@ -362,13 +362,13 @@ export default function CleaningService() {
               </div>
               <div className="contact-item">
                 <FaEnvelope className="contact-icon" />
-                <span className="contact-text">contact@ucsdienstleistung.de</span>
+                <span className="contact-text">contact@ucsquaredienstleistung.de</span>
               </div>
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
                 <span className="contact-text">
                   Bordighera Allee 13<br />
-                  74172 Neckarsulm, Germany
+                  74172 Stadt Neckarsulm, Germany
                 </span>
               </div>
               <div className="contact-item">
