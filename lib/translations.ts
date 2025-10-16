@@ -140,7 +140,8 @@ export const translations = {
     ecoFriendly: 'Eco-Friendly',
     ecoFriendlyDesc: 'Committed to using environmentally safe cleaning products that protect your health and the planet.',
     trust: 'Trustworthy',
-    trustDesc: 'Certified cleaners with verified police clearance, fully vetted and insured. You can rely on our team for your comfort, safety, and complete peace of mind.',
+    trustDesc: 'All private and residential clients can rely on our certified cleaners with verified police clearance checks. Your comfort, safety, and peace of mind are always our top priority.',
+
     
     // Testimonials Section
     testimonialsTitle: 'What Our Clients Say',
