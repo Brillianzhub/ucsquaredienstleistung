@@ -54,11 +54,7 @@ export default function ImpressumPage() {
               <p><strong>{language === 'de' ? 'E-Mail:' : 'Email:'}</strong> contact@ucsquaredienstleistung.de</p>
             </section>
 
-            <section>
-              <h2>{language === 'de' ? 'Umsatzsteuer-ID' : 'VAT ID'}</h2>
-              <p>{language === 'de' ? 'Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:' : 'VAT identification number according to §27 a VAT law:'}</p>
-              <p>[USt-IdNr. falls vorhanden]</p>
-            </section>
+           
 
             <section>
               <h2>{language === 'de' ? 'Handelsregister' : 'Commercial Register'}</h2>
