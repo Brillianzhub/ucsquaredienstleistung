@@ -13,7 +13,7 @@ export const translations = {
     
     // About Section
     aboutTitle: 'Über uns',
-    aboutSubtitle: 'Mit über 10 Jahren Erfahrung bieten wir hochwertige Reinigungsdienstleistungen für Privat- und Geschäftskunden in der gesamten Region.',
+    aboutSubtitle: 'Mit vielen Jahren Erfahrung bieten wir hochwertige Reinigungsdienstleistungen für Privat- und Geschäftskunden in der gesamten Region.',
     aboutHeading: 'Ihr vertrauensvoller Reinigungspartner',
     aboutText1: 'Bei CleanPro Services glauben wir, dass eine saubere Umgebung für Gesundheit, Produktivität und Seelenfrieden unerlässlich ist. Unser Team aus geschulten Fachkräften verwendet umweltfreundliche Produkte und fortschrittliche Techniken, um außergewöhnliche Reinigungsergebnisse zu erzielen.',
     aboutText2: 'Wir betreuen sowohl private als auch gewerbliche Kunden und bieten flexible Terminplanung und maßgeschneiderte Reinigungslösungen für Ihre spezifischen Bedürfnisse. Unser Engagement für Exzellenz und Kundenzufriedenheit hat uns zur bevorzugten Wahl für Hunderte zufriedener Kunden gemacht.',
@@ -108,7 +108,7 @@ export const translations = {
     
     // About Section
     aboutTitle: 'About Us',
-    aboutSubtitle: 'With over 10 years of experience, we provide top-quality cleaning services for homes and businesses across the region.',
+    aboutSubtitle: 'With many years of experience, we provide top-quality cleaning services for homes and businesses across the region.',
     aboutHeading: 'Your Trusted Cleaning Partner',
     aboutText1: 'At CleanPro Services, we believe that a clean environment is essential for health, productivity, and peace of mind. Our team of trained professionals uses eco-friendly products and advanced techniques to deliver exceptional cleaning results.',
     aboutText2: 'We serve both residential and commercial clients, offering flexible scheduling and customized cleaning solutions to meet your specific needs. Our commitment to excellence and customer satisfaction has made us the preferred choice for hundreds of satisfied customers.',
