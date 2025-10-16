@@ -58,7 +58,7 @@ export default function ImpressumPage() {
 
             <section>
               <h2>{language === 'de' ? 'Handelsregister' : 'Commercial Register'}</h2>
-              <p><strong>{language === 'de' ? 'Registergericht:' : 'Register Court:'}</strong> [Amtsgericht]</p>
+              <p><strong>{language === 'de' ? 'Registergericht:' : 'Register Court:'}</strong> Stadt Neckarsulm</p>
               <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> [HRB-Nummer falls vorhanden]</p>
             </section>
 
