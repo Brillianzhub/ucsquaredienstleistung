@@ -429,7 +429,6 @@ export default function CleaningService() {
             <p>
               {t('footerDesc')}
             </p>
-            <p><strong>{t('phone')}:</strong> +49 (0) 123 456 7890</p>
             <p><strong>{t('phone')}:</strong> 015212560674 / 017683057106</p>
             <p><strong>{t('email')}:</strong> contact@ucsdienstleistung.de</p>
           </div>
