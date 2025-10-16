@@ -45,7 +45,7 @@ export const translations = {
     ecoFriendly: 'Umweltfreundlich',
     ecoFriendlyDesc: 'Verpflichtet zur Verwendung umweltverträglicher Reinigungsprodukte, die Ihre Gesundheit und den Planeten schützen.',
     trust: "Vertrauenswürdig",
-    trustDesc: "Gründlich überprüfte und versicherte Reinigungskräfte, auf die Sie sich verlassen können. Ihr Komfort und Ihre Sicherheit haben für uns   oberste Priorität."
+    trustDesc: "Gründlich überprüfte und versicherte Reinigungskräfte, auf die Sie sich verlassen können. Ihr Komfort und Ihre Sicherheit haben für uns   oberste Priorität.",
     
     // Testimonials Section
     testimonialsTitle: 'Was unsere Kunden sagen',
