@@ -430,7 +430,7 @@ export default function CleaningService() {
               {t('footerDesc')}
             </p>
             <p><strong>{t('phone')}:</strong> 015212560674 / 017683057106</p>
-            <p><strong>{t('email')}:</strong> contact@ucsdienstleistung.de</p>
+            <p><strong>{t('email')}:</strong> contact@ucsquaredienstleistung.de</p>
           </div>
           
           <div className="footer-section">
