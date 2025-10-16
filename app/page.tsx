@@ -17,7 +17,8 @@ import {
   FaUsers,
   FaBars,
   FaTimes,
-  FaHandshake
+  FaHandshake,
+  FaWhatsapp
 } from 'react-icons/fa';
 
 export default function CleaningService() {
@@ -368,6 +369,19 @@ export default function CleaningService() {
                 <span className="contact-text">
                   015212560674<br />
                   017683057106
+                </span>
+              </div>
+              <div className="contact-item">
+                <FaWhatsapp className="contact-icon" style={{ color: '#25D366' }} />
+                <span className="contact-text">
+                  <a
+                    href="https://wa.me/4915212560674"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'inherit', textDecoration: 'none' }}
+                  >
+                    WhatsApp Chat
+                  </a>
                 </span>
               </div>
               <div className="contact-item">
