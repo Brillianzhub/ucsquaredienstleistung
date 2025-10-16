@@ -55,7 +55,7 @@ export default function ImpressumPage() {
             </section>
 
             <section>
-              <h2>{language === 'de' ? 'Umsatzsteuer Kleinunternehmer' : 'VAT Small Business'}</h2>
+              <h2>{language === 'de' ? 'Steuer Kleinunternehmer' : 'VAT Small Business'}</h2>
               <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> GewA 1: 202500000100</p>
             </section>
 
