@@ -140,7 +140,7 @@ export const translations = {
     ecoFriendly: 'Eco-Friendly',
     ecoFriendlyDesc: 'Committed to using environmentally safe cleaning products that protect your health and the planet.',
     trust: 'Trustworthy',
-    trustDesc: 'Fully vetted and insured cleaners you can rely on. Your comfort and peace of mind are always our top priority.'
+    trustDesc: 'Fully vetted and insured cleaners you can rely on. Your comfort and peace of mind are always our top priority.',
     
     // Testimonials Section
     testimonialsTitle: 'What Our Clients Say',
