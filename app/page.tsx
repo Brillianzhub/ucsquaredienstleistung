@@ -372,7 +372,7 @@ export default function CleaningService() {
                 </span>
               </div>
               <div className="contact-item">
-                <FaWhatsapp className="contact-icon" style={{ color: '#25D366' }} />
+                <FaWhatsapp className="contact-icon" />
                 <span className="contact-text">
                   <a
                     href="https://wa.me/4915212560674"
