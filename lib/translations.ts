@@ -46,7 +46,6 @@ export const translations = {
     ecoFriendlyDesc: 'Verpflichtet zur Verwendung umweltverträglicher Reinigungsprodukte, die Ihre Gesundheit und den Planeten schützen.',
     trust: 'Vertrauenswürdig',
     trustDesc: 'Unsere zertifizierten Reinigungskräfte verfügen über ein aktuelles polizeiliches Führungszeugnis und sind vollständig versichert. Auf sie können Sie sich jederzeit verlassen.',
-,
     
     // Testimonials Section
     testimonialsTitle: 'Was unsere Kunden sagen',
@@ -141,7 +140,7 @@ export const translations = {
     ecoFriendly: 'Eco-Friendly',
     ecoFriendlyDesc: 'Committed to using environmentally safe cleaning products that protect your health and the planet.',
     trust: 'Trustworthy',
-    trustDesc: 'Fully vetted and insured cleaners you can rely on. Your comfort and peace of mind are always our top priority.',
+    trustDesc: 'Certified cleaners with verified police clearance, fully vetted and insured. You can rely on our team for your comfort, safety, and complete peace of mind.',
     
     // Testimonials Section
     testimonialsTitle: 'What Our Clients Say',
