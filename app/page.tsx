@@ -265,15 +265,14 @@ export default function CleaningService() {
               </p>
             </div>
             <div className="feature">
-  <div className="feature-icon">
-    <FaHandshake /> {/* Symbolizes trust and reliability */}
-  </div>
-  <h3>{t('trust')}</h3>
-  <p>
-    {t('trustDesc')}
-  </p>
-</div>
-
+              <div className="feature-icon">
+                <FaHandshake /> {/* Symbolizes trust and reliability */}
+              </div>
+              <h3>{t('trust')}</h3>
+              <p>
+                {t('trustDesc')}
+              </p>
+            </div>
           </div>
         </div>
       </section>
