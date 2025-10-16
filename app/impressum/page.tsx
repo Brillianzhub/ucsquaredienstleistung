@@ -64,10 +64,10 @@ export default function ImpressumPage() {
               <p><strong>{language === 'de' ? 'Registersamt:' : 'Register Office:'}</strong> Stadt Neckarsulm</p>
               <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> GewA 1: 202500000100</p>
             </section>
-
+            
             <section>
               <h2>{language === 'de' ? 'Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV' : 'Responsible for content according to § 55 para. 2 RStV'}</h2>
-              <p><strong>{language === 'de' ? 'Adresse:' : 'Address:'}</strong><br />
+              <p><strong>{language === 'de' ? 'Name:' : 'Name:'}</strong><br />
                 Uche Ndibe</p>
               <p><strong>{language === 'de' ? 'Adresse:' : 'Address:'}</strong><br />
                 Bordighera Allee 13<br />
