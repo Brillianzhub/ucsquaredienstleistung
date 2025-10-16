@@ -44,6 +44,8 @@ export const translations = {
     experiencedDesc: 'Über 10 Jahre Erfahrung mit geschulten Fachkräften, die wissen, wie sie jede Reinigungsherausforderung bewältigen.',
     ecoFriendly: 'Umweltfreundlich',
     ecoFriendlyDesc: 'Verpflichtet zur Verwendung umweltverträglicher Reinigungsprodukte, die Ihre Gesundheit und den Planeten schützen.',
+    trust: "Vertrauenswürdig",
+    trustDesc: "Gründlich überprüfte und versicherte Reinigungskräfte, auf die Sie sich verlassen können. Ihr Komfort und Ihre Sicherheit haben für uns   oberste Priorität."
     
     // Testimonials Section
     testimonialsTitle: 'Was unsere Kunden sagen',
@@ -137,6 +139,8 @@ export const translations = {
     experiencedDesc: 'Over 10 years of experience with trained professionals who know how to handle any cleaning challenge.',
     ecoFriendly: 'Eco-Friendly',
     ecoFriendlyDesc: 'Committed to using environmentally safe cleaning products that protect your health and the planet.',
+    trust: 'Trustworthy',
+    trustDesc: 'Fully vetted and insured cleaners you can rely on. Your comfort and peace of mind are always our top priority.'
     
     // Testimonials Section
     testimonialsTitle: 'What Our Clients Say',
