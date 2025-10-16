@@ -409,13 +409,14 @@ export default function CleaningService() {
 
               <div className="map-container">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.4092048731394!2d13.377684776019285!3d52.51663997202317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c655f20989%3A0x26bbfb4e84674c63!2sBrandenburg%20Gate!5e0!3m2!1sen!2sde!4v1704067200000!5m2!1sen!2sde"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.905323896736!2d9.225660776013135!3d49.19181417137478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47982222c2e9e7cf%3A0x7d4ab1ee57d17b03!2sBordighera%20Allee%2013%2C%2074172%20Neckarsulm%2C%20Germany!5e0!3m2!1sen!2sde!4v1739680000000!5m2!1sen!2sde"
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
                   title="UCSquare Clean Dienstleistung Location"
                 ></iframe>
               </div>
+
             </div>
           </div>
         </div>
