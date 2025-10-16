@@ -88,8 +88,7 @@ trustDesc: 'Alle privaten und wohnlichen Kunden können sich auf unsere zertifiz
     impressum: 'Impressum',
     termsOfService: 'Nutzungsbedingungen',
     insuranceInfo: 'Versicherungsinfo',
-    footerCopyright: '© 2024 CleanPro Services. Alle Rechte vorbehalten. | Lizenziert & Versichert',
-    footerCopyright: '© 2024 UCSquare Clean Dienstleistung. Alle Rechte vorbehalten. | Lizenziert & Versichert',
+    footerCopyright: '© 2025 UCSquare Clean Dienstleistung. Alle Rechte vorbehalten. | Lizenziert & Versichert',
     
     // Form messages
     thankYouMessage: 'Vielen Dank für Ihre Nachricht! Wir werden uns bald bei Ihnen melden.',
@@ -183,7 +182,7 @@ trustDesc: 'Alle privaten und wohnlichen Kunden können sich auf unsere zertifiz
     impressum: 'Impressum',
     termsOfService: 'Terms of Service',
     insuranceInfo: 'Insurance Information',
-    footerCopyright: '© 2024 UCSquare Clean Dienstleistung. All rights reserved. | Licensed & Insured',
+    footerCopyright: '© 2025 UCSquare Clean Dienstleistung. All rights reserved. | Licensed & Insured',
     
     // Form messages
     thankYouMessage: 'Thank you for your message! We will get back to you soon.',
