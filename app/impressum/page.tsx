@@ -62,8 +62,7 @@ export default function ImpressumPage() {
 
             <section>
               <h2>{language === 'de' ? 'Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV' : 'Responsible for content according to § 55 para. 2 RStV'}</h2>
-              <p>Uche Ndibe
-              </p>
+              <p>Uche Ndibe</p>
               <p><strong>{language === 'de' ? 'Adresse:' : 'Address:'}</strong><br />
                 Bordighera Allee 13<br />
                 74172 Neckarsulm<br />
