@@ -16,7 +16,8 @@ import {
   FaDollarSign,
   FaUsers,
   FaBars,
-  FaTimes
+  FaTimes,
+  FaHandshake
 } from 'react-icons/fa';
 
 export default function CleaningService() {
