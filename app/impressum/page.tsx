@@ -55,6 +55,11 @@ export default function ImpressumPage() {
             </section>
 
             <section>
+              <h2>{language === 'de' ? 'Umsatzsteuer Kleinunternehmer' : 'VAT Small Business'}</h2>
+              <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> GewA 1: 202500000100</p>
+            </section>
+
+            <section>
               <h2>{language === 'de' ? 'Handelsregister' : 'Commercial Register'}</h2>
               <p><strong>{language === 'de' ? 'Registersamt:' : 'Register Office:'}</strong> Stadt Neckarsulm</p>
               <p><strong>{language === 'de' ? 'Registernummer:' : 'Register Number:'}</strong> GewA 1: 202500000100</p>
