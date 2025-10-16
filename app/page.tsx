@@ -264,6 +264,15 @@ export default function CleaningService() {
                 {t('ecoFriendlyDesc')}
               </p>
             </div>
+            <div className="feature">
+              <div className="feature-icon">
+                <FaDollarSign />
+              </div>
+              <h3>{t('affordable')}</h3>
+              <p>
+                {t('affordableDesc')}
+              </p>
+            </div>
           </div>
         </div>
       </section>
