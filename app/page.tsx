@@ -451,7 +451,7 @@ export default function CleaningService() {
               <li>{t('mondayFriday')}</li>
               <li>{t('saturday')}</li>
               <li>{t('sunday')}</li>
-              <li>{t('emergency')}</li>
+              <li>{(translations[language] as any)['emergency'] ?? (language === 'de' ? 'Notfall' : 'Emergency')}</li>
             </ul>
           </div>
           
