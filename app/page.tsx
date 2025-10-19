@@ -157,7 +157,7 @@ export default function CleaningService() {
             </div>
             <div className="about-image">
               <img 
-                src="https://images.pexels.com/photos/4099123/pexels-photo-4099123.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop" 
+                src="https://i.imgur.com/ByC4UNh.jpeg" 
                 alt="Professional cleaning team at work"
               />
             </div>
