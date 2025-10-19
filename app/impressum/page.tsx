@@ -37,7 +37,7 @@ export default function ImpressumPage() {
             <section>
               <h2>{language === 'de' ? 'Angaben gemäß § 5 TMG' : 'Information according to § 5 TMG'}</h2>
               <p><strong>{language === 'de' ? 'Firmenname:' : 'Company Name:'}</strong> UCSquare Clean Dienstleistung</p>
-              <p><strong>{language === 'de' ? 'Geschäftsführer:' : 'Managing Director:'}</strong> [Name des Geschäftsführers]</p>
+              <p><strong>{language === 'de' ? 'Geschäftsführer:' : 'Managing Director:'}</strong>Uche Ndibe</p>
             </section>
 
             <section>
