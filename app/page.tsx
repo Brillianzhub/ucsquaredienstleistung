@@ -34,7 +34,7 @@ export default function CleaningService() {
   const heroImages = [
     'https://images.pexels.com/photos/4239037/pexels-photo-4239037.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
     'https://i.imgur.com/ooQ4ia6.jpeg',
-    'https://images.pexels.com/photos/6197119/pexels-photo-6197119.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop'
+    'https://i.imgur.com/S2Q49AC.jpeg'
   ];
 
   useEffect(() => {
